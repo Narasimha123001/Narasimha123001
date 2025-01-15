@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Bird repeller,banking Security**
+- 🔭 I’m currently working on **Build a website using java full stack**
 
 - 🌱 I’m currently learning **Java,Dsa,web development**
 

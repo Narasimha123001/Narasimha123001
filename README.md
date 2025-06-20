@@ -1,30 +1,78 @@
-<h1 align="center">Hi 👋, I'm Narasimha</h1>
-<h3 align="center">Software Developer</h3>
+<h1 align="center">Hi 👋, I'm Narasimha (Nara)</h1>
+<h3 align="center">Full-Stack Java Developer & ML Enthusiast</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=narasimha123001&label=Profile%20views&color=0e75b6&style=flat" alt="narasimha123001" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=narasimha123001" alt="narasimha123001" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
-- 🔭 I’m currently working on **Bird repeller,banking Security**
-
-- 🌱 I’m currently learning **Java,Dsa,web development**
-
-- 💬 Ask me about **python,Machine Learning**
-
-- 📫 How to reach me **narasimhaanguluri2003@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/narasimha-anguluri-1b72a12a6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/narasimha-anguluri-1b72a12a6" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://github.com/narasimha123001"><img src="https://komarev.com/ghpvc/?username=narasimha123001&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" /></a>
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=narasimha123001&theme=onedark" alt="Trophy" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=narasimha123001&show_icons=true&locale=en&layout=compact" alt="narasimha123001" /></p>
+## 🚀 About Me
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=narasimha123001&show_icons=true&locale=en" alt="narasimha123001" /></p>
+- 🔭 Currently crafting solutions in **Bird Repeller** and **Banking Security** domains.
+- 🌱 Continuously expanding expertise in **Java**, **Data Structures & Algorithms**, and **Web Development**.
+- 🤖 Passionate about **Python**, **Machine Learning**, and building AI-driven features.
+- 📫 Reach out: [narasimhaanguluri2003@gmail.com](mailto:narasimhaanguluri2003@gmail.com)
+- 🔗 Connect on [LinkedIn](https://www.linkedin.com/in/narasimha-anguluri-1b72a12a6)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=narasimha123001&" alt="narasimha123001" /></p>
+---
+
+## 🛠️ Skills & Tools
+
+<p align="left">
+  <!-- Backend -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40" />
+  <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring Boot" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40" />
+
+  <!-- Frontend -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="Vue.js" width="40" height="40" />
+
+  <!-- Data & AI -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" />
+  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="40" height="40" />
+  <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="PyTorch" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="MATLAB" width="40" height="40" />
+
+  <!-- Tools -->
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40" />
+  <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" width="40" height="40" />
+</p>
+
+---
+
+## 🌟 Featured Projects
+
+| Project                 | Description                                                       | Tech Stack                                 | Link                                                                       |
+|-------------------------|-------------------------------------------------------------------|--------------------------------------------|----------------------------------------------------------------------------|
+| **Bird Repeller**       | IoT device using ultrasonic waves to protect crops from bird damage. | `ESP32`, `Arduino C++`, `Blynk`            | [Repo](https://github.com/narasimha123001/bird-repeller)                  |
+| **Secure Banking API**  | Spring Boot microservice enforcing secure transactions with RBAC.   | `Java`, `Spring Security`, `JWT`, `MySQL`  | [Repo](https://github.com/narasimha123001/secure-banking)                  |
+| **Product Trend Analyzer** | Python system fetching state-wise search trends and visualizing product popularity. | `Python`, `SerpAPI`, `Matplotlib`, `Flask` | [Repo](https://github.com/narasimha123001/product-trend-analyzer)          |
+| **AC Control IoT App**  | WiFi-enabled mobile control for automatic AC speed regulation via Blynk. | `ESP8266`, `Arduino C++`, `Blynk`          | [Repo](https://github.com/narasimha123001/ac-control-iot)                  |
+| **Artisan Orders API**  | RESTful endpoints for managing artisan orders in the Artisan Empowerment Platform. | `Java`, `Spring Boot`, `MySQL`, `JWT`      | [Repo](https://github.com/narasimha123001/artisan-orders-api)              |
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=narasimha123001&show_icons=true&theme=onedark" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=narasimha123001&theme=dark" alt="GitHub Streak" />
+</p>
+
+---
+
+## 🎯 Goals
+
+- Master **Spring Security 6+** and implement enterprise-grade authentication.
+- Dive deeper into **Transformer architectures** for anomaly detection in WSNs.
+- Contribute to open-source projects and mentor aspiring developers.
+
+---
+
+> “The best way to predict the future is to create it.” – Peter Drucker

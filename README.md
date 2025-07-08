@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Narasimha (Nara)</h1>
+<h1 align="center">Hi 👋, I'm Narasimha Anguluri</h1>
 <h3 align="center">Full-Stack Java Developer & ML Enthusiast</h3>
 
 <p align="center">
@@ -10,9 +10,8 @@
 
 ## 🚀 About Me
 
-- 🔭 Currently crafting solutions in **Bird Repeller** and **Banking Security** domains.
-- 🌱 Continuously expanding expertise in **Java**, **Data Structures & Algorithms**, and **Web Development**.
-- 🤖 Passionate about **Python**, **Machine Learning**, and building AI-driven features.
+- 🔭 Currently crafting solutions in **Voice-to catlog** and **Web Development** domains.
+- 🌱 Continuously expanding expertise in **Java**, **Data Structures & Algorithms**, and **java-backend-dev**.
 - 📫 Reach out: [narasimhaanguluri2003@gmail.com](mailto:narasimhaanguluri2003@gmail.com)
 - 🔗 Connect on [LinkedIn](https://www.linkedin.com/in/narasimha-anguluri-1b72a12a6)
 
@@ -44,19 +43,7 @@
   <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" width="40" height="40" />
 </p>
 
----
 
-## 🌟 Featured Projects
-
-| Project                 | Description                                                       | Tech Stack                                 | Link                                                                       |
-|-------------------------|-------------------------------------------------------------------|--------------------------------------------|----------------------------------------------------------------------------|
-| **Bird Repeller**       | IoT device using ultrasonic waves to protect crops from bird damage. | `ESP32`, `Arduino C++`, `Blynk`            | [Repo](https://github.com/narasimha123001/bird-repeller)                  |
-| **Secure Banking API**  | Spring Boot microservice enforcing secure transactions with RBAC.   | `Java`, `Spring Security`, `JWT`, `MySQL`  | [Repo](https://github.com/narasimha123001/secure-banking)                  |
-| **Product Trend Analyzer** | Python system fetching state-wise search trends and visualizing product popularity. | `Python`, `SerpAPI`, `Matplotlib`, `Flask` | [Repo](https://github.com/narasimha123001/product-trend-analyzer)          |
-| **AC Control IoT App**  | WiFi-enabled mobile control for automatic AC speed regulation via Blynk. | `ESP8266`, `Arduino C++`, `Blynk`          | [Repo](https://github.com/narasimha123001/ac-control-iot)                  |
-| **Artisan Orders API**  | RESTful endpoints for managing artisan orders in the Artisan Empowerment Platform. | `Java`, `Spring Boot`, `MySQL`, `JWT`      | [Repo](https://github.com/narasimha123001/artisan-orders-api)              |
-
----
 
 ## 📈 GitHub Stats
 
@@ -69,7 +56,7 @@
 
 ## 🎯 Goals
 
-- Master **Spring Security 6+** and implement enterprise-grade authentication.
+- Master **spring_backend_development** and start building Apllication
 - Dive deeper into **Transformer architectures** for anomaly detection in WSNs.
 - Contribute to open-source projects and mentor aspiring developers.
 

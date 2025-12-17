@@ -13,7 +13,7 @@
 - 🔭 Currently crafting solutions in **Voice-to catlog** and **Web Development** domains.
 - 🌱 Continuously expanding expertise in **Java**, **Data Structures & Algorithms**, and **java-backend-dev**.
 - 📫 Reach out: [narasimhaanguluri2003@gmail.com](mailto:narasimhaanguluri2003@gmail.com)
-- 🔗 Connect on [Portfolio](https://narasimhaanguluri.in/)
+- 🔗 My_Portfolio [Anguluri_Narasimha](https://narasimhaanguluri.in/)
 - 🔗 Connect on [LinkedIn](https://www.linkedin.com/in/narasimha-anguluri-1b72a12a6)
 
 ---
